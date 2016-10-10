@@ -11,6 +11,10 @@ namespace CodeSmellTestProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo Welt :)");
+
+            //List all Classes here
+            ExplicitThreadSmell explicitThreadSmell = new ExplicitThreadSmell();
+
         }
     }
 }
