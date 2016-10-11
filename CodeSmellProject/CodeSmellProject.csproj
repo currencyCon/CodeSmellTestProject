@@ -7,8 +7,8 @@
     <ProjectGuid>{88933A64-E568-4A3A-B69F-66ABD8555C68}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CodeSmellTestProject</RootNamespace>
-    <AssemblyName>CodeSmellTestProject</AssemblyName>
+    <RootNamespace>CodeSmellProject</RootNamespace>
+    <AssemblyName>CodeSmellProject</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
