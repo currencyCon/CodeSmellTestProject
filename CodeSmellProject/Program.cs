@@ -14,6 +14,7 @@ namespace CodeSmellProject
 
             //List all Classes here
             ExplicitThreadSmell explicitThreadSmell = new ExplicitThreadSmell();
+            HalfSynchronizedClassSmell halfSynchronizedClassSmell = new HalfSynchronizedClassSmell();
 
         }
     }
