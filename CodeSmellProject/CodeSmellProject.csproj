@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ExplicitThreadSmell.cs" />
     <Compile Include="HalfSynchronizedClassSmell.cs" />
+    <Compile Include="NestedSynchronizedMethodClassSmell.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
